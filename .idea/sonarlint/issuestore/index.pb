@@ -1,0 +1,3 @@
+
+<
+.sequelizerc,8\4\84422194e897d322e4ea023c315729c1dbcfe5b1

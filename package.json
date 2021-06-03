@@ -1,7 +1,6 @@
 {
   "name": "myApp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "nodemon src/app.js"
@@ -10,12 +9,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "mysql2": "^2.2.5",
-    "sequelize": "^6.5.0"
+    "sequelize": "^6.6.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortezalberto/pruebaba.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cortezalberto/pruebaba/issues"
+  },
+  "homepage": "https://github.com/cortezalberto/pruebaba#readme",
+  "description": ""
 }
